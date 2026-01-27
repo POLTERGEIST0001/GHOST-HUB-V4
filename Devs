@@ -1,9 +1,0 @@
-return {
-  [8011710599]    = true, -- VERT3XandRAV3N
-  [2852863764]    = true, -- VERT3X
-  [4016679867] 	  = true, -- RAV3N
-  [8607285454]    = true, -- XxVERT3XnREV3NxX
-  [4884167748]    = true, -- VERT3Xalt1
-  [4686634901] 	  = true, -- RAV3N_2
-  [7020586238]    = true, -- RAV3N_4
-}
